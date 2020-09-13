@@ -1,0 +1,83 @@
+
+body
+{
+    margin: 0;
+    background: url("cc.jpg");
+    font-family: sans-serif;
+}
+
+.xogame
+{
+    width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.xogame .main
+{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.xogame .parent
+{
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.25);
+
+}
+
+.xogame .parent button
+{
+    background:  #c63b5e;
+    width: 200px;
+    float: left;
+    height: 150px;
+    color: white;
+    border: 1px solid ;
+    font-size: 28px;
+
+
+}
+
+.xogame .result
+{
+    display: none;
+    padding-top:20px;
+    padding-bottom: 20px;
+    margin-top: 500px;
+    color: white;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.xogame .tryagain button
+{
+    background:  #c63b5e;
+    color: white;
+    width: 100%;
+    padding-top: 13px;
+    padding-bottom: 13px;
+    font-size: 20px;
+    display: none;
+
+}
+
+.Name {
+color: #c32323;
+width:100%;
+float:right;
+
+}
+#abbod{
+    color: white;
+  margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+
+    text-align: center
+    }
